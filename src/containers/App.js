@@ -5,8 +5,8 @@ import Scroll from "../components/Scroll";
 import "./App.css";
 
 class App extends Component {
-  constructor(props) {
-    super(props);
+  constructor() {
+    super();
     this.state = {
       robots: [],
       searchfield: "",
