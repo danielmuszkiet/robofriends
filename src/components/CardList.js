@@ -5,9 +5,6 @@ const CardList = ({ robots }) => {
   return (
     <div>
       {robots.map((user, index) => {
-        if (true) {
-          throw new Error("NOOOO");
-        }
         return (
           <Card
             id={user.id}
