@@ -1,6 +1,7 @@
 # Robofriends
-A simple react app with searchfield
+A simple react app with searchfield for searching robots
 
 ## Try It
-1. npm install
-2. npm start
+1. clone repo
+2. npm install
+3. npm start
